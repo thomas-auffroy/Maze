@@ -1,0 +1,2 @@
+# Maze
+Generator of maze 
